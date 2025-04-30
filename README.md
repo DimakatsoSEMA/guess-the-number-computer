@@ -1,6 +1,6 @@
 **What the project does?** 
 - This is a game where the user tries to guess the number from the computer.
-- you will learn how to work with Python's random module, build functions, work with while loops and conditionals, and get user input.
+- You will work with Python's random module, build functions, work with while loops and conditionals, and get user input.
   
 **How to run it?**
 - You can copy the code and run it in Visual Studio Code (VS Code)
